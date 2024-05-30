@@ -1,0 +1,8 @@
+ja:
+  books:
+    list: "書籍一覧"
+    open: "表示"
+    new: "新規登録"
+    edit: "編集"
+    to_list: "一覧に戻る"
+    delete: "削除"
